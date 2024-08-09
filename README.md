@@ -1,4 +1,4 @@
-# MEITY Bhashini Project - Evaluation Tool
+# MeiTY Bhashini Project - Evaluation Tool
 
 ## Overview
 
