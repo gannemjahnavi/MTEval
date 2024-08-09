@@ -1,4 +1,4 @@
-# MeiTY Bhashini Project - Evaluation Tool
+# MeiTY Bhashini Project - MiDAS Evaluation Tool
 
 ## Overview
 
