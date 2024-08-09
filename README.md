@@ -55,5 +55,5 @@ This project is an evaluation tool developed using the MERN stack (MongoDB, Expr
     ```
 
 ## Conclusion
-The MEITY Bhashini Project's Evaluation Tool is a powerful system for evaluating machine translation quality through human input. This tool ensures accurate and reliable training of translation models, helping to improve translation performance.
+The MeiTY Bhashini Project's Evaluation Tool is a powerful system for evaluating machine translation quality through human input. This tool ensures accurate and reliable training of translation models, helping to improve translation performance.
 
