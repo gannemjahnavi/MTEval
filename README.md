@@ -24,7 +24,7 @@ This project is an evaluation tool developed using the MERN stack (MongoDB, Expr
 1. Navigate to the frontend directory.
 2. Run the following commands to install necessary packages and initialize npm:
     ```bash
-    npm install -init
+    npm install 
     npm init -y
     ```
 3. Install React Router DOM for handling routing:
